@@ -1,20 +1,11 @@
 ### Hi there 👋
 
-<!--
-**Sofiamgarcia93/Sofiamgarcia93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm Sofia Garcia, FrontEnd Developer 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<p align="center">
+  <img src="https://github.com/kinoute/kinoute/blob/master/images/output.gif?raw=true" />
+<em>Mariko Kaga in "<a href="https://www.imdb.com/title/tt0056327">Kawaita hana</a>" (1964).</em>
+</p>
 ### Contact with me 📝
 
 
@@ -71,6 +62,4 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/garciasofi73
 [linkedin]: https://www.linkedin.com/in/sofia-macarena-garcia-649bb7203/
   
- ### 👀 visitor count
 
-<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
