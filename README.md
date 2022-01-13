@@ -70,3 +70,7 @@ Here are some ideas to get you started:
 
 [instagram]: https://www.instagram.com/garciasofi73
 [linkedin]: https://www.linkedin.com/in/sofia-macarena-garcia-649bb7203/
+  
+ ### 👀 visitor count
+
+<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
