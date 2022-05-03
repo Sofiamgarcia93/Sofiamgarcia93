@@ -2,9 +2,7 @@ Hello!!
 
 i'm Sofia Garcia, FrontEnd Developer 
 
-<iframe width="600" height = "420"
-src="https://user-images.githubusercontent.com/75865280/166486502-a30180f9-e9e4-4357-b054-38cc00fe31cf.mp4">
-</iframe>
+<div align="center"><img alt="Banner" src="https://www.canva.com/design/DAE_pxoG6tc/n2Ke9xLGr31uRuxaZ_kJIg/watch?utm_content=DAE_pxoG6tc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" /></div>
 
 
 ### Contact with me 📝
