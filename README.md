@@ -2,9 +2,9 @@ Hello!!
 
 i'm Sofia Garcia, FrontEnd Developer 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/75865280/166486502-a30180f9-e9e4-4357-b054-38cc00fe31cf.mp4" />
-</p>
+<iframe width="600" height = "420"
+src="https://user-images.githubusercontent.com/75865280/166486502-a30180f9-e9e4-4357-b054-38cc00fe31cf.mp4">
+</iframe>
 
 
 ### Contact with me 📝
@@ -12,7 +12,7 @@ i'm Sofia Garcia, FrontEnd Developer
 
 
 [<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
+
 
 <br />
 
