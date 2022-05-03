@@ -1,9 +1,10 @@
-Hello!!
 
-i'm Sofia Garcia, FrontEnd Developer 
+# Hola Everyone!
 
-<div align="center"><img alt="Banner" src="https://www.canva.com/design/DAE_pxoG6tc/n2Ke9xLGr31uRuxaZ_kJIg/watch?utm_content=DAE_pxoG6tc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" /></div>
+ <img alt="" src="https://user-images.githubusercontent.com/75865280/166499318-b2fe89aa-15b5-427a-a7d3-7042c4aa7e76.jpg" />
 
+
+ 
 
 ### Contact with me 📝
 
@@ -37,7 +38,7 @@ i'm Sofia Garcia, FrontEnd Developer
  
 ---
 
-[instagram]: https://www.instagram.com/garciasofi73
+[instagram]: https://www.instagram.com/sofi__garcia__
 [linkedin]: https://www.linkedin.com/in/sofia-macarena-garcia-649bb7203/
   
 
