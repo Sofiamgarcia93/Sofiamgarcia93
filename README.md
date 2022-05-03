@@ -3,8 +3,7 @@ Hello!!
 i'm Sofia Garcia, FrontEnd Developer 
 
 <p align="center">
-  <img src="https://github.com/kinoute/kinoute/blob/master/images/output.gif?raw=true" />
-<em>Mariko Kaga in "<a href="https://www.imdb.com/title/tt0056327">Kawaita hana</a>" (1964).</em>
+  <img src="https://user-images.githubusercontent.com/75865280/166486502-a30180f9-e9e4-4357-b054-38cc00fe31cf.mp4" />
 </p>
 
 
@@ -30,7 +29,6 @@ i'm Sofia Garcia, FrontEnd Developer
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
