@@ -1,10 +1,20 @@
 
-# Hola Everyone!
+# Hello Everyone!
 
  <img alt="" src="https://user-images.githubusercontent.com/75865280/166499318-b2fe89aa-15b5-427a-a7d3-7042c4aa7e76.jpg" />
 
 
  
+## Sobre mi:
+
+  <p>Hace 1 año que me propuse ingresar al mundo del desarrollo Web, asi fue como 
+   ingrese a ADA, donde me forme como Desarrolladora FrontEnd, aprendiendo a programar desde 0, mas abajo te muestro los lenguajes que domino. Te invito a recorrer mis proyectos los cuales desarrolle a lo largo de mi cursada! Espero te gusten, se aceptan comentarios.</p>
+   
+ Me encuentro en 
+ **busqueda activa** de trabajo como desarrolladora.
+ 
+ ¡Gracias!
+
 
 ### Contact with me 📝
 
